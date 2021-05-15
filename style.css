@@ -1,0 +1,77 @@
+a{
+color: #f98c06;
+cursor: pointer;
+}
+a:hover{
+
+cursor: pointer;
+}
+.nav-link {
+  text-decoration: none;
+}
+ 
+.nav-link:hover {
+  color: #5495ff;
+}
+.btn {
+  background-color: #2176FF;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+a{
+color: #f98c06;
+cursor: pointer;
+}
+a:hover{
+
+cursor: pointer;
+}
+.nav-link {
+  text-decoration: none;
+}
+ 
+.nav-link:hover {
+  color: #5495ff;
+}
+.btn {
+  background-color: #2176FF;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #fff;
+  border-radius: 5px;
+  color: #2176FF;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: bold;
+}
+.activity {
+  border: 1px solid #2176FF;
+  cursor: pointer;
+  text-decoration: none;
+}
+.activity:hover {
+  border: 10px solid #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
